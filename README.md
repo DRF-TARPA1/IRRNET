@@ -2,8 +2,8 @@
 IRRNET: Wireless Network of Scales To Manage Irrigation in Forest Nurseries
 
 # Authors
-⋅⋅*Daniel Girard
-⋅⋅*Jean Gagnon
+* Daniel Girard
+* Jean Gagnon
 
 
 # Overview
