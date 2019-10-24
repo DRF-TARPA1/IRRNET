@@ -1,5 +1,6 @@
 # IRRNET
-IRRNET: Wireless Network of Scales To Manage Irrigation in Forest Nurseries / Réseau sans fil de pesons pour gérer l'irrigation dans les pépinières forestières
+IRRNET: Wireless Network of Scales To Manage Irrigation in Forest Nurseries / 
+        Réseau sans fil de pesons pour gérer l'irrigation dans les pépinières forestières
 
 # Authors
 * Daniel Girard
