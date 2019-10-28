@@ -1,4 +1,4 @@
-# IRRNET
+# IRRNET Arduino
 IRRNET:
 * Wireless Network of Scales To Manage Irrigation in Forest Nurseries / 
 * Réseau sans fil de pesons pour gérer l'irrigation dans les pépinières forestières
@@ -10,7 +10,7 @@ IRRNET:
 
 # Overview
 
-IRRNET is a real-time monitoring system of the volumetric substrate water content (% v/v) designed for forest nurseries which produce containerized seedlings. It uses the gravimetry (weighing) in a wireless network of stand-alone automated scales and software suitable for the conversion of mass in % v/v. It is usable with small cavities and is particularly suitable for nurseries that use low-density substrates, where water is usually a large part of the mass. Each scale can sample up to hundreds of seedlings per measurement for optimized statistical power.
+IRRNET is a real-time monitoring system build on Arduino microtroller for logging the volumetric substrate water content (% v/v) designed for forest nurseries which produce containerized seedlings. It uses the gravimetry (weighing) in a wireless network of stand-alone automated scales and software suitable for the conversion of mass in % v/v. It is usable with small cavities and is particularly suitable for nurseries that use low-density substrates, where water is usually a large part of the mass. Each scale can sample up to hundreds of seedlings per measurement for optimized statistical power.
 
 
 # License
